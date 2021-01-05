@@ -1,6 +1,6 @@
 # CNN
 
-### 💡 This is my winter vacation research assignment for the second semester of third grade 💡
+### 💡 This is my winter vacation research assignment for the second semester of third grade
 ### 🛠 I'm studying deep learning and CNN.
 
 
